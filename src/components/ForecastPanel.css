@@ -1,0 +1,106 @@
+.forecast-chart {
+  margin: 4px 0 20px;
+}
+
+.forecast-tooltip {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 8px 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  font-size: 12px;
+}
+
+.forecast-tooltip-date {
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.forecast-tooltip-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  color: #374151;
+}
+
+.forecast-tooltip-row .val {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
+
+.forecast-tooltip-row.meta {
+  color: #9ca3af;
+  font-weight: 400;
+}
+
+.forecast-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+@media (max-width: 700px) {
+  .forecast-grid { grid-template-columns: 1fr; }
+}
+
+.forecast-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.forecast-card-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.forecast-icon {
+  font-size: 18px;
+}
+
+.forecast-card-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.forecast-value {
+  font-size: 24px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.1;
+}
+
+.forecast-meta {
+  display: flex;
+  gap: 8px;
+}
+
+.forecast-badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 9px;
+  border-radius: 99px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.forecast-detail {
+  font-size: 12px;
+  color: #374151;
+  line-height: 1.5;
+}
+
+.forecast-note {
+  font-size: 11px;
+  color: #9ca3af;
+  line-height: 1.4;
+  margin-top: 4px;
+}

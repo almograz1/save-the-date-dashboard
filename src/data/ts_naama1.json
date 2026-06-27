@@ -1,0 +1,762 @@
+﻿[
+    {
+        "date":  "2025-05-11",
+        "ndvi_mean":  0.1925,
+        "ndvi_min":  0.1363,
+        "ndvi_max":  0.2487,
+        "ndvi_std":  0.0312,
+        "ndmi_mean":  0.0109,
+        "ndmi_min":  -0.0071,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-05-19",
+        "ndvi_mean":  0.1726,
+        "ndvi_min":  0.1247,
+        "ndvi_max":  0.2205,
+        "ndvi_std":  0.0266,
+        "ndmi_mean":  -0.0013,
+        "ndmi_min":  -0.0193,
+        "cloud_cover":  0.37
+    },
+    {
+        "date":  "2025-05-21",
+        "ndvi_mean":  0.1945,
+        "ndvi_min":  0.1437,
+        "ndvi_max":  0.2453,
+        "ndvi_std":  0.0282,
+        "ndmi_mean":  0.0154,
+        "ndmi_min":  -0.0026,
+        "cloud_cover":  0.63
+    },
+    {
+        "date":  "2025-05-24",
+        "ndvi_mean":  0.1819,
+        "ndvi_min":  0.1297,
+        "ndvi_max":  0.2341,
+        "ndvi_std":  0.0290,
+        "ndmi_mean":  0.0081,
+        "ndmi_min":  -0.0099,
+        "cloud_cover":  0.59
+    },
+    {
+        "date":  "2025-05-29",
+        "ndvi_mean":  0.1816,
+        "ndvi_min":  0.1314,
+        "ndvi_max":  0.2318,
+        "ndvi_std":  0.0279,
+        "ndmi_mean":  0.0076,
+        "ndmi_min":  -0.0104,
+        "cloud_cover":  4.16
+    },
+    {
+        "date":  "2025-05-31",
+        "ndvi_mean":  0.1929,
+        "ndvi_min":  0.1425,
+        "ndvi_max":  0.2433,
+        "ndvi_std":  0.0280,
+        "ndmi_mean":  0.0126,
+        "ndmi_min":  -0.0054,
+        "cloud_cover":  0.59
+    },
+    {
+        "date":  "2025-06-03",
+        "ndvi_mean":  0.1756,
+        "ndvi_min":  0.1248,
+        "ndvi_max":  0.2264,
+        "ndvi_std":  0.0282,
+        "ndmi_mean":  0.0071,
+        "ndmi_min":  -0.0109,
+        "cloud_cover":  15.47
+    },
+    {
+        "date":  "2025-06-08",
+        "ndvi_mean":  0.1969,
+        "ndvi_min":  0.146,
+        "ndvi_max":  0.2478,
+        "ndvi_std":  0.0283,
+        "ndmi_mean":  0.0066,
+        "ndmi_min":  -0.0114,
+        "cloud_cover":  0.03
+    },
+    {
+        "date":  "2025-06-10",
+        "ndvi_mean":  0.1951,
+        "ndvi_min":  0.1362,
+        "ndvi_max":  0.254,
+        "ndvi_std":  0.0327,
+        "ndmi_mean":  0.0039,
+        "ndmi_min":  -0.0141,
+        "cloud_cover":  0.04
+    },
+    {
+        "date":  "2025-06-13",
+        "ndvi_mean":  0.1913,
+        "ndvi_min":  0.1422,
+        "ndvi_max":  0.2404,
+        "ndvi_std":  0.0273,
+        "ndmi_mean":  0.0133,
+        "ndmi_min":  -0.0047,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-06-18",
+        "ndvi_mean":  0.1837,
+        "ndvi_min":  0.1315,
+        "ndvi_max":  0.2359,
+        "ndvi_std":  0.0290,
+        "ndmi_mean":  0.0043,
+        "ndmi_min":  -0.0137,
+        "cloud_cover":  0.04
+    },
+    {
+        "date":  "2025-06-20",
+        "ndvi_mean":  0.1835,
+        "ndvi_min":  0.1313,
+        "ndvi_max":  0.2357,
+        "ndvi_std":  0.0290,
+        "ndmi_mean":  0.0103,
+        "ndmi_min":  -0.0077,
+        "cloud_cover":  0.13
+    },
+    {
+        "date":  "2025-06-23",
+        "ndvi_mean":  0.1757,
+        "ndvi_min":  0.1316,
+        "ndvi_max":  0.2198,
+        "ndvi_std":  0.0245,
+        "ndmi_mean":  0.0021,
+        "ndmi_min":  -0.0159,
+        "cloud_cover":  4.9
+    },
+    {
+        "date":  "2025-06-28",
+        "ndvi_mean":  0.1921,
+        "ndvi_min":  0.1399,
+        "ndvi_max":  0.2443,
+        "ndvi_std":  0.0290,
+        "ndmi_mean":  0.0067,
+        "ndmi_min":  -0.0113,
+        "cloud_cover":  0.02
+    },
+    {
+        "date":  "2025-06-30",
+        "ndvi_mean":  0.1903,
+        "ndvi_min":  0.1374,
+        "ndvi_max":  0.2432,
+        "ndvi_std":  0.0294,
+        "ndmi_mean":  0.0078,
+        "ndmi_min":  -0.0102,
+        "cloud_cover":  0.04
+    },
+    {
+        "date":  "2025-07-03",
+        "ndvi_mean":  0.1822,
+        "ndvi_min":  0.1323,
+        "ndvi_max":  0.2321,
+        "ndvi_std":  0.0277,
+        "ndmi_mean":  -0.0012,
+        "ndmi_min":  -0.0192,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-07-08",
+        "ndvi_mean":  0.1880,
+        "ndvi_min":  0.1369,
+        "ndvi_max":  0.2391,
+        "ndvi_std":  0.0284,
+        "ndmi_mean":  0.0023,
+        "ndmi_min":  -0.0157,
+        "cloud_cover":  0.23
+    },
+    {
+        "date":  "2025-07-10",
+        "ndvi_mean":  0.1956,
+        "ndvi_min":  0.1414,
+        "ndvi_max":  0.2498,
+        "ndvi_std":  0.0301,
+        "ndmi_mean":  0.0019,
+        "ndmi_min":  -0.0161,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2025-07-13",
+        "ndvi_mean":  0.1889,
+        "ndvi_min":  0.1389,
+        "ndvi_max":  0.2389,
+        "ndvi_std":  0.0278,
+        "ndmi_mean":  0.0000,
+        "ndmi_min":  -0.0180,
+        "cloud_cover":  7.84
+    },
+    {
+        "date":  "2025-07-18",
+        "ndvi_mean":  0.1837,
+        "ndvi_min":  0.1347,
+        "ndvi_max":  0.2327,
+        "ndvi_std":  0.0272,
+        "ndmi_mean":  -0.0006,
+        "ndmi_min":  -0.0186,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-07-20",
+        "ndvi_mean":  0.1789,
+        "ndvi_min":  0.1242,
+        "ndvi_max":  0.2336,
+        "ndvi_std":  0.0304,
+        "ndmi_mean":  -0.0017,
+        "ndmi_min":  -0.0197,
+        "cloud_cover":  2.91
+    },
+    {
+        "date":  "2025-07-23",
+        "ndvi_mean":  0.1939,
+        "ndvi_min":  0.1397,
+        "ndvi_max":  0.2481,
+        "ndvi_std":  0.0301,
+        "ndmi_mean":  -0.0027,
+        "ndmi_min":  -0.0207,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-07-28",
+        "ndvi_mean":  0.1801,
+        "ndvi_min":  0.1308,
+        "ndvi_max":  0.2294,
+        "ndvi_std":  0.0274,
+        "ndmi_mean":  0.0010,
+        "ndmi_min":  -0.0170,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2025-07-30",
+        "ndvi_mean":  0.1872,
+        "ndvi_min":  0.133,
+        "ndvi_max":  0.2414,
+        "ndvi_std":  0.0301,
+        "ndmi_mean":  -0.0098,
+        "ndmi_min":  -0.0278,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2025-08-02",
+        "ndvi_mean":  0.1758,
+        "ndvi_min":  0.1231,
+        "ndvi_max":  0.2285,
+        "ndvi_std":  0.0293,
+        "ndmi_mean":  0.0009,
+        "ndmi_min":  -0.0171,
+        "cloud_cover":  0.15
+    },
+    {
+        "date":  "2025-08-07",
+        "ndvi_mean":  0.1737,
+        "ndvi_min":  0.1201,
+        "ndvi_max":  0.2273,
+        "ndvi_std":  0.0298,
+        "ndmi_mean":  -0.0113,
+        "ndmi_min":  -0.0293,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-08-09",
+        "ndvi_mean":  0.1773,
+        "ndvi_min":  0.1202,
+        "ndvi_max":  0.2344,
+        "ndvi_std":  0.0317,
+        "ndmi_mean":  -0.0158,
+        "ndmi_min":  -0.0338,
+        "cloud_cover":  10.02
+    },
+    {
+        "date":  "2025-08-12",
+        "ndvi_mean":  0.1536,
+        "ndvi_min":  0.1174,
+        "ndvi_max":  0.1898,
+        "ndvi_std":  0.0201,
+        "ndmi_mean":  -0.0054,
+        "ndmi_min":  -0.0234,
+        "cloud_cover":  0.33
+    },
+    {
+        "date":  "2025-08-17",
+        "ndvi_mean":  0.1881,
+        "ndvi_min":  0.1319,
+        "ndvi_max":  0.2443,
+        "ndvi_std":  0.0312,
+        "ndmi_mean":  -0.0033,
+        "ndmi_min":  -0.0213,
+        "cloud_cover":  6.5
+    },
+    {
+        "date":  "2025-08-19",
+        "ndvi_mean":  0.1885,
+        "ndvi_min":  0.1329,
+        "ndvi_max":  0.2441,
+        "ndvi_std":  0.0309,
+        "ndmi_mean":  -0.0034,
+        "ndmi_min":  -0.0214,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2025-08-22",
+        "ndvi_mean":  0.1782,
+        "ndvi_min":  0.1253,
+        "ndvi_max":  0.2311,
+        "ndvi_std":  0.0294,
+        "ndmi_mean":  -0.0022,
+        "ndmi_min":  -0.0202,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-08-29",
+        "ndvi_mean":  0.1938,
+        "ndvi_min":  0.1373,
+        "ndvi_max":  0.2503,
+        "ndvi_std":  0.0314,
+        "ndmi_mean":  -0.0005,
+        "ndmi_min":  -0.0185,
+        "cloud_cover":  0.06
+    },
+    {
+        "date":  "2025-09-01",
+        "ndvi_mean":  0.1875,
+        "ndvi_min":  0.1322,
+        "ndvi_max":  0.2428,
+        "ndvi_std":  0.0307,
+        "ndmi_mean":  0.0077,
+        "ndmi_min":  -0.0103,
+        "cloud_cover":  0.96
+    },
+    {
+        "date":  "2025-09-06",
+        "ndvi_mean":  0.1942,
+        "ndvi_min":  0.1377,
+        "ndvi_max":  0.2507,
+        "ndvi_std":  0.0314,
+        "ndmi_mean":  0.0032,
+        "ndmi_min":  -0.0148,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2025-09-08",
+        "ndvi_mean":  0.1868,
+        "ndvi_min":  0.1317,
+        "ndvi_max":  0.2419,
+        "ndvi_std":  0.0306,
+        "ndmi_mean":  0.0018,
+        "ndmi_min":  -0.0162,
+        "cloud_cover":  17.8
+    },
+    {
+        "date":  "2025-09-11",
+        "ndvi_mean":  0.2013,
+        "ndvi_min":  0.1419,
+        "ndvi_max":  0.2607,
+        "ndvi_std":  0.0330,
+        "ndmi_mean":  0.0069,
+        "ndmi_min":  -0.0111,
+        "cloud_cover":  0.16
+    },
+    {
+        "date":  "2025-09-16",
+        "ndvi_mean":  0.2031,
+        "ndvi_min":  0.1437,
+        "ndvi_max":  0.2625,
+        "ndvi_std":  0.0330,
+        "ndmi_mean":  -0.0011,
+        "ndmi_min":  -0.0191,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2025-09-18",
+        "ndvi_mean":  0.2015,
+        "ndvi_min":  0.1401,
+        "ndvi_max":  0.2629,
+        "ndvi_std":  0.0341,
+        "ndmi_mean":  0.0072,
+        "ndmi_min":  -0.0108,
+        "cloud_cover":  0.36
+    },
+    {
+        "date":  "2025-09-21",
+        "ndvi_mean":  0.2373,
+        "ndvi_min":  0.1601,
+        "ndvi_max":  0.3145,
+        "ndvi_std":  0.0429,
+        "ndmi_mean":  0.0210,
+        "ndmi_min":  0.0030,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-09-26",
+        "ndvi_mean":  0.2077,
+        "ndvi_min":  0.1357,
+        "ndvi_max":  0.2797,
+        "ndvi_std":  0.040,
+        "ndmi_mean":  0.0103,
+        "ndmi_min":  -0.0077,
+        "cloud_cover":  5.11
+    },
+    {
+        "date":  "2025-09-28",
+        "ndvi_mean":  0.2228,
+        "ndvi_min":  0.1591,
+        "ndvi_max":  0.2865,
+        "ndvi_std":  0.0354,
+        "ndmi_mean":  0.0259,
+        "ndmi_min":  0.0079,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-10-01",
+        "ndvi_mean":  0.2019,
+        "ndvi_min":  0.1429,
+        "ndvi_max":  0.2609,
+        "ndvi_std":  0.0328,
+        "ndmi_mean":  0.0164,
+        "ndmi_min":  -0.0016,
+        "cloud_cover":  3.12
+    },
+    {
+        "date":  "2025-10-06",
+        "ndvi_mean":  0.1987,
+        "ndvi_min":  0.1397,
+        "ndvi_max":  0.2577,
+        "ndvi_std":  0.0328,
+        "ndmi_mean":  0.0081,
+        "ndmi_min":  -0.0099,
+        "cloud_cover":  19.14
+    },
+    {
+        "date":  "2025-10-08",
+        "ndvi_mean":  0.2069,
+        "ndvi_min":  0.1432,
+        "ndvi_max":  0.2706,
+        "ndvi_std":  0.0354,
+        "ndmi_mean":  0.0226,
+        "ndmi_min":  0.0046,
+        "cloud_cover":  0.24
+    },
+    {
+        "date":  "2025-10-11",
+        "ndvi_mean":  0.2168,
+        "ndvi_min":  0.1538,
+        "ndvi_max":  0.2798,
+        "ndvi_std":  0.0350,
+        "ndmi_mean":  0.0178,
+        "ndmi_min":  -0.0002,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2025-10-16",
+        "ndvi_mean":  0.2231,
+        "ndvi_min":  0.159,
+        "ndvi_max":  0.2872,
+        "ndvi_std":  0.0356,
+        "ndmi_mean":  0.0264,
+        "ndmi_min":  0.0084,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2025-10-18",
+        "ndvi_mean":  0.2385,
+        "ndvi_min":  0.1652,
+        "ndvi_max":  0.3118,
+        "ndvi_std":  0.0407,
+        "ndmi_mean":  0.0309,
+        "ndmi_min":  0.0129,
+        "cloud_cover":  0.02
+    },
+    {
+        "date":  "2025-10-21",
+        "ndvi_mean":  0.2320,
+        "ndvi_min":  0.1636,
+        "ndvi_max":  0.3004,
+        "ndvi_std":  0.0380,
+        "ndmi_mean":  0.0329,
+        "ndmi_min":  0.0149,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-10-28",
+        "ndvi_mean":  0.2331,
+        "ndvi_min":  0.1642,
+        "ndvi_max":  0.302,
+        "ndvi_std":  0.0383,
+        "ndmi_mean":  0.0367,
+        "ndmi_min":  0.0187,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-10-31",
+        "ndvi_mean":  0.2709,
+        "ndvi_min":  0.1841,
+        "ndvi_max":  0.3577,
+        "ndvi_std":  0.0482,
+        "ndmi_mean":  0.0472,
+        "ndmi_min":  0.0292,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-11-05",
+        "ndvi_mean":  0.2454,
+        "ndvi_min":  0.1772,
+        "ndvi_max":  0.3136,
+        "ndvi_std":  0.0379,
+        "ndmi_mean":  0.0414,
+        "ndmi_min":  0.0234,
+        "cloud_cover":  10.97
+    },
+    {
+        "date":  "2025-11-07",
+        "ndvi_mean":  0.2600,
+        "ndvi_min":  0.1858,
+        "ndvi_max":  0.3342,
+        "ndvi_std":  0.0412,
+        "ndmi_mean":  0.0372,
+        "ndmi_min":  0.0192,
+        "cloud_cover":  0.37
+    },
+    {
+        "date":  "2025-11-10",
+        "ndvi_mean":  0.2621,
+        "ndvi_min":  0.1885,
+        "ndvi_max":  0.3357,
+        "ndvi_std":  0.0409,
+        "ndmi_mean":  0.0557,
+        "ndmi_min":  0.0377,
+        "cloud_cover":  0.71
+    },
+    {
+        "date":  "2025-11-20",
+        "ndvi_mean":  0.2846,
+        "ndvi_min":  0.2014,
+        "ndvi_max":  0.3678,
+        "ndvi_std":  0.0462,
+        "ndmi_mean":  0.0925,
+        "ndmi_min":  0.0745,
+        "cloud_cover":  22.47
+    },
+    {
+        "date":  "2025-11-27",
+        "ndvi_mean":  0.2969,
+        "ndvi_min":  0.2065,
+        "ndvi_max":  0.3873,
+        "ndvi_std":  0.0502,
+        "ndmi_mean":  0.0938,
+        "ndmi_min":  0.0758,
+        "cloud_cover":  0.01
+    },
+    {
+        "date":  "2025-12-05",
+        "ndvi_mean":  0.2816,
+        "ndvi_min":  0.2013,
+        "ndvi_max":  0.3619,
+        "ndvi_std":  0.0446,
+        "ndmi_mean":  0.0789,
+        "ndmi_min":  0.0609,
+        "cloud_cover":  10.15
+    },
+    {
+        "date":  "2025-12-17",
+        "ndvi_mean":  0.2692,
+        "ndvi_min":  0.19,
+        "ndvi_max":  0.3484,
+        "ndvi_std":  0.0440,
+        "ndmi_mean":  0.2584,
+        "ndmi_min":  0.2404,
+        "cloud_cover":  18.85
+    },
+    {
+        "date":  "2025-12-20",
+        "ndvi_mean":  0.3063,
+        "ndvi_min":  0.2224,
+        "ndvi_max":  0.3902,
+        "ndvi_std":  0.0466,
+        "ndmi_mean":  0.1182,
+        "ndmi_min":  0.1002,
+        "cloud_cover":  15.67
+    },
+    {
+        "date":  "2025-12-25",
+        "ndvi_mean":  0.2805,
+        "ndvi_min":  0.2107,
+        "ndvi_max":  0.3503,
+        "ndvi_std":  0.0388,
+        "ndmi_mean":  0.0890,
+        "ndmi_min":  0.0710,
+        "cloud_cover":  14.33
+    },
+    {
+        "date":  "2026-01-04",
+        "ndvi_mean":  0.2907,
+        "ndvi_min":  0.2214,
+        "ndvi_max":  0.36,
+        "ndvi_std":  0.0385,
+        "ndmi_mean":  0.0921,
+        "ndmi_min":  0.0741,
+        "cloud_cover":  0.83
+    },
+    {
+        "date":  "2026-01-06",
+        "ndvi_mean":  0.2738,
+        "ndvi_min":  0.2076,
+        "ndvi_max":  0.34,
+        "ndvi_std":  0.0368,
+        "ndmi_mean":  0.0678,
+        "ndmi_min":  0.0498,
+        "cloud_cover":  17.09
+    },
+    {
+        "date":  "2026-01-19",
+        "ndvi_mean":  0.3088,
+        "ndvi_min":  0.2397,
+        "ndvi_max":  0.3779,
+        "ndvi_std":  0.0384,
+        "ndmi_mean":  0.0837,
+        "ndmi_min":  0.0657,
+        "cloud_cover":  23.03
+    },
+    {
+        "date":  "2026-01-24",
+        "ndvi_mean":  0.2591,
+        "ndvi_min":  0.2141,
+        "ndvi_max":  0.3041,
+        "ndvi_std":  0.0250,
+        "ndmi_mean":  0.0515,
+        "ndmi_min":  0.0335,
+        "cloud_cover":  11.13
+    },
+    {
+        "date":  "2026-02-08",
+        "ndvi_mean":  0.2231,
+        "ndvi_min":  0.1891,
+        "ndvi_max":  0.2571,
+        "ndvi_std":  0.0189,
+        "ndmi_mean":  0.0443,
+        "ndmi_min":  0.0263,
+        "cloud_cover":  16.97
+    },
+    {
+        "date":  "2026-02-08",
+        "ndvi_mean":  0.2249,
+        "ndvi_min":  0.19,
+        "ndvi_max":  0.2598,
+        "ndvi_std":  0.0194,
+        "ndmi_mean":  0.0411,
+        "ndmi_min":  0.0231,
+        "cloud_cover":  16.63
+    },
+    {
+        "date":  "2026-02-18",
+        "ndvi_mean":  0.2311,
+        "ndvi_min":  0.1902,
+        "ndvi_max":  0.272,
+        "ndvi_std":  0.0227,
+        "ndmi_mean":  0.0430,
+        "ndmi_min":  0.0250,
+        "cloud_cover":  0.05
+    },
+    {
+        "date":  "2026-02-18",
+        "ndvi_mean":  0.2334,
+        "ndvi_min":  0.1911,
+        "ndvi_max":  0.2757,
+        "ndvi_std":  0.0235,
+        "ndmi_mean":  0.0410,
+        "ndmi_min":  0.0230,
+        "cloud_cover":  0.05
+    },
+    {
+        "date":  "2026-02-28",
+        "ndvi_mean":  0.2712,
+        "ndvi_min":  0.2089,
+        "ndvi_max":  0.3335,
+        "ndvi_std":  0.0346,
+        "ndmi_mean":  0.0623,
+        "ndmi_min":  0.0443,
+        "cloud_cover":  14.86
+    },
+    {
+        "date":  "2026-03-05",
+        "ndvi_mean":  0.2501,
+        "ndvi_min":  0.1993,
+        "ndvi_max":  0.3009,
+        "ndvi_std":  0.0282,
+        "ndmi_mean":  0.0438,
+        "ndmi_min":  0.0258,
+        "cloud_cover":  17.03
+    },
+    {
+        "date":  "2026-03-10",
+        "ndvi_mean":  0.2491,
+        "ndvi_min":  0.1976,
+        "ndvi_max":  0.3006,
+        "ndvi_std":  0.0286,
+        "ndmi_mean":  0.0414,
+        "ndmi_min":  0.0234,
+        "cloud_cover":  0.09
+    },
+    {
+        "date":  "2026-03-17",
+        "ndvi_mean":  0.2489,
+        "ndvi_min":  0.1895,
+        "ndvi_max":  0.3083,
+        "ndvi_std":  0.0330,
+        "ndmi_mean":  0.0333,
+        "ndmi_min":  0.0153,
+        "cloud_cover":  0.0
+    },
+    {
+        "date":  "2026-03-17",
+        "ndvi_mean":  0.2253,
+        "ndvi_min":  0.1754,
+        "ndvi_max":  0.2752,
+        "ndvi_std":  0.0277,
+        "ndmi_mean":  0.0319,
+        "ndmi_min":  0.0139,
+        "cloud_cover":  0.02
+    },
+    {
+        "date":  "2026-04-04",
+        "ndvi_mean":  0.1930,
+        "ndvi_min":  0.1705,
+        "ndvi_max":  0.2155,
+        "ndvi_std":  0.0125,
+        "ndmi_mean":  0.0395,
+        "ndmi_min":  0.0215,
+        "cloud_cover":  0.36
+    },
+    {
+        "date":  "2026-04-06",
+        "ndvi_mean":  0.2142,
+        "ndvi_min":  0.1699,
+        "ndvi_max":  0.2585,
+        "ndvi_std":  0.0246,
+        "ndmi_mean":  0.0263,
+        "ndmi_min":  0.0083,
+        "cloud_cover":  13.4
+    },
+    {
+        "date":  "2026-04-14",
+        "ndvi_mean":  0.2418,
+        "ndvi_min":  0.1855,
+        "ndvi_max":  0.2981,
+        "ndvi_std":  0.0313,
+        "ndmi_mean":  0.0364,
+        "ndmi_min":  0.0184,
+        "cloud_cover":  3.64
+    },
+    {
+        "date":  "2026-04-29",
+        "ndvi_mean":  0.2095,
+        "ndvi_min":  0.1609,
+        "ndvi_max":  0.2581,
+        "ndvi_std":  0.0270,
+        "ndmi_mean":  0.0133,
+        "ndmi_min":  -0.0047,
+        "cloud_cover":  3.76
+    }
+]

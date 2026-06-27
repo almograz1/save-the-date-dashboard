@@ -1,0 +1,61 @@
+.farm-selector {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid #e5e7eb;
+  margin-bottom: 24px;
+  overflow-x: auto;
+}
+
+.farm-tab {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  padding: 12px 20px 10px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  transition: background 0.12s, border-color 0.12s;
+  min-width: 130px;
+  text-align: left;
+  position: relative;
+  bottom: -1px;
+}
+
+.farm-tab:hover {
+  background: #f9fafb;
+}
+
+.farm-tab-active {
+  background: #fff;
+  border-bottom-width: 3px;
+}
+
+.farm-tab-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-bottom: 2px;
+}
+
+.farm-tab-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: #111827;
+  line-height: 1.2;
+}
+
+.farm-tab-sub {
+  font-size: 10px;
+  color: #9ca3af;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.farm-tab-ndvi {
+  font-size: 12px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  margin-top: 2px;
+}

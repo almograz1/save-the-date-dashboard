@@ -1,0 +1,41 @@
+.seasonal-summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.seasonal-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface-soft);
+}
+
+.seasonal-label {
+  font-size: 11px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  font-weight: 850;
+}
+
+.seasonal-value {
+  font-size: 14px;
+  color: var(--muted-strong);
+}
+
+.seasonal-num {
+  font-variant-numeric: tabular-nums;
+  font-weight: 850;
+  color: var(--text);
+}
+
+@media (max-width: 760px) {
+  .seasonal-summary {
+    grid-template-columns: 1fr;
+  }
+}

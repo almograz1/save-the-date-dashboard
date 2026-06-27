@@ -1,0 +1,133 @@
+.navbar {
+  display: flex;
+  gap: 8px;
+}
+
+.navbar-sidebar {
+  flex-direction: column;
+}
+
+.navbar-mobile {
+  display: none;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding: 4px;
+  margin: 0 0 18px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: 0 8px 26px rgba(28, 51, 31, 0.07);
+}
+
+.navbar-mobile::-webkit-scrollbar {
+  display: none;
+}
+
+.nav-link {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-radius: 16px;
+  text-decoration: none;
+  transition: transform 0.16s ease, background 0.16s ease, color 0.16s ease, box-shadow 0.16s ease;
+}
+
+.navbar-sidebar .nav-link {
+  padding: 13px 14px;
+  color: rgba(246, 251, 243, 0.7);
+}
+
+.navbar-mobile .nav-link {
+  flex: 0 0 auto;
+  padding: 10px 14px;
+  color: var(--muted-strong);
+}
+
+.nav-link:hover {
+  transform: translateY(-1px);
+}
+
+.navbar-sidebar .nav-link:hover {
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.navbar-mobile .nav-link:hover {
+  color: var(--text);
+  background: var(--surface-soft);
+}
+
+.nav-link.active {
+  color: #ffffff;
+  background: linear-gradient(135deg, rgba(72, 154, 83, 0.9), rgba(25, 118, 62, 0.88));
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+.navbar-mobile .nav-link.active {
+  color: #ffffff;
+  box-shadow: 0 10px 22px rgba(31, 116, 60, 0.18);
+}
+
+.nav-icon {
+  width: 32px;
+  height: 32px;
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.1);
+  font-size: 18px;
+}
+
+.navbar-mobile .nav-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 10px;
+  background: rgba(30, 123, 67, 0.08);
+}
+
+.nav-link.active .nav-icon,
+.navbar-mobile .nav-link.active .nav-icon {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.nav-copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.nav-label {
+  font-size: 14px;
+  font-weight: 750;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.nav-description {
+  color: rgba(246, 251, 243, 0.54);
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.nav-link.active .nav-description {
+  color: rgba(255, 255, 255, 0.74);
+}
+
+@media (max-width: 980px) {
+  .navbar-mobile {
+    display: flex;
+  }
+}
+
+@media (max-width: 560px) {
+  .navbar-mobile .nav-link {
+    padding: 9px 12px;
+  }
+
+  .navbar-mobile .nav-icon {
+    display: none;
+  }
+}

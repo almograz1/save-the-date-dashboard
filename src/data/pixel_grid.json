@@ -1,0 +1,2784 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.90496987266678
+        ]
+      },
+      "id": "0",
+      "properties": {
+        "NDMI": 0.06286265701055527,
+        "NDVI": 0.33963125944137573,
+        "SAVI": 0.28915505003036224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.90496987266678
+        ]
+      },
+      "id": "1",
+      "properties": {
+        "NDMI": 0.06081898510456085,
+        "NDVI": 0.3427388072013855,
+        "SAVI": 0.2909903448080337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.90496987266678
+        ]
+      },
+      "id": "2",
+      "properties": {
+        "NDMI": 0.055231139063835144,
+        "NDVI": 0.3485696613788605,
+        "SAVI": 0.29417424293348077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.90496987266678
+        ]
+      },
+      "id": "3",
+      "properties": {
+        "NDMI": 0.055231139063835144,
+        "NDVI": 0.3485696613788605,
+        "SAVI": 0.29417424293348077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.90496987266678
+        ]
+      },
+      "id": "4",
+      "properties": {
+        "NDMI": 0.055231139063835144,
+        "NDVI": 0.3589221239089966,
+        "SAVI": 0.3018975515388005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.90496987266678
+        ]
+      },
+      "id": "5",
+      "properties": {
+        "NDMI": 0.03886345773935318,
+        "NDVI": 0.2962203323841095,
+        "SAVI": 0.2564688093787046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.90496987266678
+        ]
+      },
+      "id": "6",
+      "properties": {
+        "NDMI": 0.03261639177799225,
+        "NDVI": 0.2810438275337219,
+        "SAVI": 0.2432535310023258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.90496987266678
+        ]
+      },
+      "id": "7",
+      "properties": {
+        "NDMI": 0.029276167973876,
+        "NDVI": 0.29008957743644714,
+        "SAVI": 0.2526421751005672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.90496987266678
+        ]
+      },
+      "id": "8",
+      "properties": {
+        "NDMI": 0.033065441995859146,
+        "NDVI": 0.26234570145606995,
+        "SAVI": 0.23128299022860777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.90496987266678
+        ]
+      },
+      "id": "9",
+      "properties": {
+        "NDMI": 0.0348493717610836,
+        "NDVI": 0.28145113587379456,
+        "SAVI": 0.24383236893553045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.90496987266678
+        ]
+      },
+      "id": "10",
+      "properties": {
+        "NDMI": 0.0348493717610836,
+        "NDVI": 0.28145113587379456,
+        "SAVI": 0.24383236893553045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.905059704195192
+        ]
+      },
+      "id": "11",
+      "properties": {
+        "NDMI": 0.05382642522454262,
+        "NDVI": 0.35690709948539734,
+        "SAVI": 0.2997887688598436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.905059704195192
+        ]
+      },
+      "id": "12",
+      "properties": {
+        "NDMI": 0.06433313339948654,
+        "NDVI": 0.332628071308136,
+        "SAVI": 0.2841955772219492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.905059704195192
+        ]
+      },
+      "id": "13",
+      "properties": {
+        "NDMI": 0.059008851647377014,
+        "NDVI": 0.2915619909763336,
+        "SAVI": 0.2515084560448231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.905059704195192
+        ]
+      },
+      "id": "14",
+      "properties": {
+        "NDMI": 0.059008851647377014,
+        "NDVI": 0.2915619909763336,
+        "SAVI": 0.2515084560448231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.905059704195192
+        ]
+      },
+      "id": "15",
+      "properties": {
+        "NDMI": 0.060943156480789185,
+        "NDVI": 0.3486012816429138,
+        "SAVI": 0.29567182001303416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.905059704195192
+        ]
+      },
+      "id": "16",
+      "properties": {
+        "NDMI": 0.03637433797121048,
+        "NDVI": 0.31285417079925537,
+        "SAVI": 0.2688365011391127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.905059704195192
+        ]
+      },
+      "id": "17",
+      "properties": {
+        "NDMI": 0.03204445540904999,
+        "NDVI": 0.3056095838546753,
+        "SAVI": 0.2622593103788457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.905059704195192
+        ]
+      },
+      "id": "18",
+      "properties": {
+        "NDMI": 0.016925426200032234,
+        "NDVI": 0.3386601209640503,
+        "SAVI": 0.2872784174190169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.905059704195192
+        ]
+      },
+      "id": "19",
+      "properties": {
+        "NDMI": 0.022175781428813934,
+        "NDVI": 0.31128984689712524,
+        "SAVI": 0.26762848781975085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.905059704195192
+        ]
+      },
+      "id": "20",
+      "properties": {
+        "NDMI": 0.01779273711144924,
+        "NDVI": 0.34787455201148987,
+        "SAVI": 0.29053276030414116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.905059704195192
+        ]
+      },
+      "id": "21",
+      "properties": {
+        "NDMI": 0.01779273711144924,
+        "NDVI": 0.34787455201148987,
+        "SAVI": 0.29053276030414116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.905149535723602
+        ]
+      },
+      "id": "22",
+      "properties": {
+        "NDMI": 0.055257588624954224,
+        "NDVI": 0.3572918474674225,
+        "SAVI": 0.2973827310253385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.905149535723602
+        ]
+      },
+      "id": "23",
+      "properties": {
+        "NDMI": 0.07464873790740967,
+        "NDVI": 0.3424908518791199,
+        "SAVI": 0.2913781173685483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.905149535723602
+        ]
+      },
+      "id": "24",
+      "properties": {
+        "NDMI": 0.06720826029777527,
+        "NDVI": 0.2831138074398041,
+        "SAVI": 0.2440673523870901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.905149535723602
+        ]
+      },
+      "id": "25",
+      "properties": {
+        "NDMI": 0.06720826029777527,
+        "NDVI": 0.2831138074398041,
+        "SAVI": 0.2440673523870901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.905149535723602
+        ]
+      },
+      "id": "26",
+      "properties": {
+        "NDMI": 0.0664038360118866,
+        "NDVI": 0.3403530418872833,
+        "SAVI": 0.28774654802335536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.905149535723602
+        ]
+      },
+      "id": "27",
+      "properties": {
+        "NDMI": 0.06824631989002228,
+        "NDVI": 0.3461897373199463,
+        "SAVI": 0.29212598388241895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.905149535723602
+        ]
+      },
+      "id": "28",
+      "properties": {
+        "NDMI": 0.0725955069065094,
+        "NDVI": 0.3236319422721863,
+        "SAVI": 0.2761489936223236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.905149535723602
+        ]
+      },
+      "id": "29",
+      "properties": {
+        "NDMI": 0.08445320278406143,
+        "NDVI": 0.3592953085899353,
+        "SAVI": 0.3040275301648164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.905149535723602
+        ]
+      },
+      "id": "30",
+      "properties": {
+        "NDMI": 0.08715427666902542,
+        "NDVI": 0.3061586320400238,
+        "SAVI": 0.26416617983548185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.905149535723602
+        ]
+      },
+      "id": "31",
+      "properties": {
+        "NDMI": 0.06567016243934631,
+        "NDVI": 0.3017060458660126,
+        "SAVI": 0.2588597685403956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.905149535723602
+        ]
+      },
+      "id": "32",
+      "properties": {
+        "NDMI": 0.06567016243934631,
+        "NDVI": 0.3017060458660126,
+        "SAVI": 0.2588597685403956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.905239367252015
+        ]
+      },
+      "id": "33",
+      "properties": {
+        "NDMI": 0.04271991178393364,
+        "NDVI": 0.3405914604663849,
+        "SAVI": 0.28187195590111297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.905239367252015
+        ]
+      },
+      "id": "34",
+      "properties": {
+        "NDMI": 0.06505370140075684,
+        "NDVI": 0.3308653235435486,
+        "SAVI": 0.2801968045904971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.905239367252015
+        ]
+      },
+      "id": "35",
+      "properties": {
+        "NDMI": 0.05605382099747658,
+        "NDVI": 0.33722400665283203,
+        "SAVI": 0.282804249254009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.905239367252015
+        ]
+      },
+      "id": "36",
+      "properties": {
+        "NDMI": 0.05605382099747658,
+        "NDVI": 0.33722400665283203,
+        "SAVI": 0.282804249254009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.905239367252015
+        ]
+      },
+      "id": "37",
+      "properties": {
+        "NDMI": 0.048587579280138016,
+        "NDVI": 0.3545248210430145,
+        "SAVI": 0.29365932774918346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.905239367252015
+        ]
+      },
+      "id": "38",
+      "properties": {
+        "NDMI": 0.06234477460384369,
+        "NDVI": 0.35048943758010864,
+        "SAVI": 0.2938062681035993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.905239367252015
+        ]
+      },
+      "id": "39",
+      "properties": {
+        "NDMI": 0.05872086435556412,
+        "NDVI": 0.3580681383609772,
+        "SAVI": 0.2984537512809099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.905239367252015
+        ]
+      },
+      "id": "40",
+      "properties": {
+        "NDMI": 0.060832180082798004,
+        "NDVI": 0.4033796489238739,
+        "SAVI": 0.32946161970205823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.905239367252015
+        ]
+      },
+      "id": "41",
+      "properties": {
+        "NDMI": 0.07671266794204712,
+        "NDVI": 0.3571540415287018,
+        "SAVI": 0.3003690345045219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.905239367252015
+        ]
+      },
+      "id": "42",
+      "properties": {
+        "NDMI": 0.07671266794204712,
+        "NDVI": 0.3571540415287018,
+        "SAVI": 0.3003690345045219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.905239367252015
+        ]
+      },
+      "id": "43",
+      "properties": {
+        "NDMI": 0.0682956725358963,
+        "NDVI": 0.3080030083656311,
+        "SAVI": 0.26431323793903716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.479096893593116,
+          31.905239367252015
+        ]
+      },
+      "id": "44",
+      "properties": {
+        "NDMI": 0.05770419165492058,
+        "NDVI": 0.31996914744377136,
+        "SAVI": 0.2710056516594308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47801891525218,
+          31.905329198780425
+        ]
+      },
+      "id": "45",
+      "properties": {
+        "NDMI": 0.03924805670976639,
+        "NDVI": 0.3410916030406952,
+        "SAVI": 0.28119087137764937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.905329198780425
+        ]
+      },
+      "id": "46",
+      "properties": {
+        "NDMI": 0.04024922475218773,
+        "NDVI": 0.31526705622673035,
+        "SAVI": 0.26451926230177725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.905329198780425
+        ]
+      },
+      "id": "47",
+      "properties": {
+        "NDMI": 0.048078104853630066,
+        "NDVI": 0.30401352047920227,
+        "SAVI": 0.257802305284649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.905329198780425
+        ]
+      },
+      "id": "48",
+      "properties": {
+        "NDMI": 0.05667002126574516,
+        "NDVI": 0.3322795033454895,
+        "SAVI": 0.2783860276946354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.905329198780425
+        ]
+      },
+      "id": "49",
+      "properties": {
+        "NDMI": 0.05667002126574516,
+        "NDVI": 0.3322795033454895,
+        "SAVI": 0.2783860276946354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.905329198780425
+        ]
+      },
+      "id": "50",
+      "properties": {
+        "NDMI": 0.05239295959472656,
+        "NDVI": 0.34103676676750183,
+        "SAVI": 0.2838126661752773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.905329198780425
+        ]
+      },
+      "id": "51",
+      "properties": {
+        "NDMI": 0.08116232603788376,
+        "NDVI": 0.31685736775398254,
+        "SAVI": 0.26962353631878494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.905329198780425
+        ]
+      },
+      "id": "52",
+      "properties": {
+        "NDMI": 0.0560988187789917,
+        "NDVI": 0.34734079241752625,
+        "SAVI": 0.28615218916489443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.905329198780425
+        ]
+      },
+      "id": "53",
+      "properties": {
+        "NDMI": 0.06517495214939117,
+        "NDVI": 0.39204350113868713,
+        "SAVI": 0.317864345342699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.905329198780425
+        ]
+      },
+      "id": "54",
+      "properties": {
+        "NDMI": 0.08435270935297012,
+        "NDVI": 0.38870757818222046,
+        "SAVI": 0.32108196677758805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.905329198780425
+        ]
+      },
+      "id": "55",
+      "properties": {
+        "NDMI": 0.08435270935297012,
+        "NDVI": 0.38870757818222046,
+        "SAVI": 0.32108196677758805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.905329198780425
+        ]
+      },
+      "id": "56",
+      "properties": {
+        "NDMI": 0.05822914093732834,
+        "NDVI": 0.34954896569252014,
+        "SAVI": 0.290417564352594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.479096893593116,
+          31.905329198780425
+        ]
+      },
+      "id": "57",
+      "properties": {
+        "NDMI": 0.04788658767938614,
+        "NDVI": 0.35345539450645447,
+        "SAVI": 0.29056313203745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47801891525218,
+          31.90541903030884
+        ]
+      },
+      "id": "58",
+      "properties": {
+        "NDMI": 0.04192527383565903,
+        "NDVI": 0.31279924511909485,
+        "SAVI": 0.26096220075628485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.90541903030884
+        ]
+      },
+      "id": "59",
+      "properties": {
+        "NDMI": 0.03917165845632553,
+        "NDVI": 0.3296089470386505,
+        "SAVI": 0.274966723716134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.90541903030884
+        ]
+      },
+      "id": "60",
+      "properties": {
+        "NDMI": 0.0520615316927433,
+        "NDVI": 0.3122505247592926,
+        "SAVI": 0.2649817431656356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.90541903030884
+        ]
+      },
+      "id": "61",
+      "properties": {
+        "NDMI": 0.05322764068841934,
+        "NDVI": 0.32018929719924927,
+        "SAVI": 0.2685185297121532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.90541903030884
+        ]
+      },
+      "id": "62",
+      "properties": {
+        "NDMI": 0.05322764068841934,
+        "NDVI": 0.32018929719924927,
+        "SAVI": 0.2685185297121532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.90541903030884
+        ]
+      },
+      "id": "63",
+      "properties": {
+        "NDMI": 0.057969216257333755,
+        "NDVI": 0.35699373483657837,
+        "SAVI": 0.2970072198891994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.90541903030884
+        ]
+      },
+      "id": "64",
+      "properties": {
+        "NDMI": 0.08483033627271652,
+        "NDVI": 0.31917476654052734,
+        "SAVI": 0.2722567295768961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.90541903030884
+        ]
+      },
+      "id": "65",
+      "properties": {
+        "NDMI": 0.06868095695972443,
+        "NDVI": 0.3294377624988556,
+        "SAVI": 0.27612070224707724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.90541903030884
+        ]
+      },
+      "id": "66",
+      "properties": {
+        "NDMI": 0.07241512835025787,
+        "NDVI": 0.35133376717567444,
+        "SAVI": 0.29063510131620107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.90541903030884
+        ]
+      },
+      "id": "67",
+      "properties": {
+        "NDMI": 0.057573772966861725,
+        "NDVI": 0.3980582356452942,
+        "SAVI": 0.3198365480452778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.90541903030884
+        ]
+      },
+      "id": "68",
+      "properties": {
+        "NDMI": 0.057573772966861725,
+        "NDVI": 0.3980582356452942,
+        "SAVI": 0.3198365480452778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.90541903030884
+        ]
+      },
+      "id": "69",
+      "properties": {
+        "NDMI": 0.051278792321681976,
+        "NDVI": 0.37791863083839417,
+        "SAVI": 0.3091124123894455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.479096893593116,
+          31.90541903030884
+        ]
+      },
+      "id": "70",
+      "properties": {
+        "NDMI": 0.05272518843412399,
+        "NDVI": 0.32110968232154846,
+        "SAVI": 0.26800922401977834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.477929083723765,
+          31.90550886183725
+        ]
+      },
+      "id": "71",
+      "properties": {
+        "NDMI": 0.045181844383478165,
+        "NDVI": 0.29608261585235596,
+        "SAVI": 0.25245987158893024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47801891525218,
+          31.90550886183725
+        ]
+      },
+      "id": "72",
+      "properties": {
+        "NDMI": 0.04272034391760826,
+        "NDVI": 0.28018084168434143,
+        "SAVI": 0.23966478957287046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.90550886183725
+        ]
+      },
+      "id": "73",
+      "properties": {
+        "NDMI": 0.048425234854221344,
+        "NDVI": 0.3202696144580841,
+        "SAVI": 0.2693118735658664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.90550886183725
+        ]
+      },
+      "id": "74",
+      "properties": {
+        "NDMI": 0.05780846253037453,
+        "NDVI": 0.3084311783313751,
+        "SAVI": 0.26252272494758877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.90550886183725
+        ]
+      },
+      "id": "75",
+      "properties": {
+        "NDMI": 0.05780846253037453,
+        "NDVI": 0.3084311783313751,
+        "SAVI": 0.26252272494758877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.90550886183725
+        ]
+      },
+      "id": "76",
+      "properties": {
+        "NDMI": 0.05524791404604912,
+        "NDVI": 0.3704633116722107,
+        "SAVI": 0.302623201549015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.90550886183725
+        ]
+      },
+      "id": "77",
+      "properties": {
+        "NDMI": 0.07209713011980057,
+        "NDVI": 0.35377734899520874,
+        "SAVI": 0.29504484050695917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.90550886183725
+        ]
+      },
+      "id": "78",
+      "properties": {
+        "NDMI": 0.07641196995973587,
+        "NDVI": 0.3617846667766571,
+        "SAVI": 0.300107278768246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.90550886183725
+        ]
+      },
+      "id": "79",
+      "properties": {
+        "NDMI": 0.062029603868722916,
+        "NDVI": 0.3471604883670807,
+        "SAVI": 0.28564334830741916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.90550886183725
+        ]
+      },
+      "id": "80",
+      "properties": {
+        "NDMI": 0.061240628361701965,
+        "NDVI": 0.37625959515571594,
+        "SAVI": 0.3044219260363476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.90550886183725
+        ]
+      },
+      "id": "81",
+      "properties": {
+        "NDMI": 0.056768570095300674,
+        "NDVI": 0.3905624449253082,
+        "SAVI": 0.3131806907749967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.90550886183725
+        ]
+      },
+      "id": "82",
+      "properties": {
+        "NDMI": 0.056768570095300674,
+        "NDVI": 0.3905624449253082,
+        "SAVI": 0.3131806907749967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.90550886183725
+        ]
+      },
+      "id": "83",
+      "properties": {
+        "NDMI": 0.05182001367211342,
+        "NDVI": 0.37849923968315125,
+        "SAVI": 0.31054633635367734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.479096893593116,
+          31.90550886183725
+        ]
+      },
+      "id": "84",
+      "properties": {
+        "NDMI": 0.07072960585355759,
+        "NDVI": 0.3016112148761749,
+        "SAVI": 0.25809638917259964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.477929083723765,
+          31.90559869336566
+        ]
+      },
+      "id": "85",
+      "properties": {
+        "NDMI": 0.050991855561733246,
+        "NDVI": 0.2773258686065674,
+        "SAVI": 0.23913784727063653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47801891525218,
+          31.90559869336566
+        ]
+      },
+      "id": "86",
+      "properties": {
+        "NDMI": 0.04623289033770561,
+        "NDVI": 0.2847701907157898,
+        "SAVI": 0.24395265372765806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.90559869336566
+        ]
+      },
+      "id": "87",
+      "properties": {
+        "NDMI": 0.047951191663742065,
+        "NDVI": 0.34602463245391846,
+        "SAVI": 0.2883743767100377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.90559869336566
+        ]
+      },
+      "id": "88",
+      "properties": {
+        "NDMI": 0.041624873876571655,
+        "NDVI": 0.32187747955322266,
+        "SAVI": 0.2688967619954975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.90559869336566
+        ]
+      },
+      "id": "89",
+      "properties": {
+        "NDMI": 0.041624873876571655,
+        "NDVI": 0.32187747955322266,
+        "SAVI": 0.2688967619954975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.90559869336566
+        ]
+      },
+      "id": "90",
+      "properties": {
+        "NDMI": 0.04566149786114693,
+        "NDVI": 0.3443719744682312,
+        "SAVI": 0.28130977421584963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.90559869336566
+        ]
+      },
+      "id": "91",
+      "properties": {
+        "NDMI": 0.05378561466932297,
+        "NDVI": 0.36873847246170044,
+        "SAVI": 0.300984577019483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.90559869336566
+        ]
+      },
+      "id": "92",
+      "properties": {
+        "NDMI": 0.06735483556985855,
+        "NDVI": 0.3665950894355774,
+        "SAVI": 0.3011399651261866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.90559869336566
+        ]
+      },
+      "id": "93",
+      "properties": {
+        "NDMI": 0.04442095384001732,
+        "NDVI": 0.3513513505458832,
+        "SAVI": 0.2840678616950792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.90559869336566
+        ]
+      },
+      "id": "94",
+      "properties": {
+        "NDMI": 0.039870698004961014,
+        "NDVI": 0.357481986284256,
+        "SAVI": 0.2853467025579174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.90559869336566
+        ]
+      },
+      "id": "95",
+      "properties": {
+        "NDMI": 0.052631575614213943,
+        "NDVI": 0.3615265488624573,
+        "SAVI": 0.29162429379970906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.90559869336566
+        ]
+      },
+      "id": "96",
+      "properties": {
+        "NDMI": 0.052631575614213943,
+        "NDVI": 0.3615265488624573,
+        "SAVI": 0.29162429379970906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.90559869336566
+        ]
+      },
+      "id": "97",
+      "properties": {
+        "NDMI": 0.036475714296102524,
+        "NDVI": 0.35950133204460144,
+        "SAVI": 0.292702990136851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.479096893593116,
+          31.90559869336566
+        ]
+      },
+      "id": "98",
+      "properties": {
+        "NDMI": 0.0658697560429573,
+        "NDVI": 0.3226205110549927,
+        "SAVI": 0.27301255535832675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.477929083723765,
+          31.905688524894074
+        ]
+      },
+      "id": "99",
+      "properties": {
+        "NDMI": 0.05609844624996185,
+        "NDVI": 0.296120822429657,
+        "SAVI": 0.25523226433792734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47801891525218,
+          31.905688524894074
+        ]
+      },
+      "id": "100",
+      "properties": {
+        "NDMI": 0.045853644609451294,
+        "NDVI": 0.31372547149658203,
+        "SAVI": 0.2664815853160379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.905688524894074
+        ]
+      },
+      "id": "101",
+      "properties": {
+        "NDMI": 0.04158669710159302,
+        "NDVI": 0.3434560298919678,
+        "SAVI": 0.28225880070944026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.905688524894074
+        ]
+      },
+      "id": "102",
+      "properties": {
+        "NDMI": 0.034046951681375504,
+        "NDVI": 0.32792314887046814,
+        "SAVI": 0.26907047899510717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.905688524894074
+        ]
+      },
+      "id": "103",
+      "properties": {
+        "NDMI": 0.034046951681375504,
+        "NDVI": 0.32792314887046814,
+        "SAVI": 0.26907047899510717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.905688524894074
+        ]
+      },
+      "id": "104",
+      "properties": {
+        "NDMI": 0.05192584916949272,
+        "NDVI": 0.33455637097358704,
+        "SAVI": 0.27364496256591386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.905688524894074
+        ]
+      },
+      "id": "105",
+      "properties": {
+        "NDMI": 0.057131655514240265,
+        "NDVI": 0.3564838171005249,
+        "SAVI": 0.29080376626746346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.905688524894074
+        ]
+      },
+      "id": "106",
+      "properties": {
+        "NDMI": 0.057719871401786804,
+        "NDVI": 0.35164836049079895,
+        "SAVI": 0.2878429920730047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.905688524894074
+        ]
+      },
+      "id": "107",
+      "properties": {
+        "NDMI": 0.05042017623782158,
+        "NDVI": 0.34048259258270264,
+        "SAVI": 0.27789936069833954
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.905688524894074
+        ]
+      },
+      "id": "108",
+      "properties": {
+        "NDMI": 0.03595241531729698,
+        "NDVI": 0.314968466758728,
+        "SAVI": 0.25820786252074723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.905688524894074
+        ]
+      },
+      "id": "109",
+      "properties": {
+        "NDMI": 0.03821573033928871,
+        "NDVI": 0.3255620300769806,
+        "SAVI": 0.2664697876418665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.905688524894074
+        ]
+      },
+      "id": "110",
+      "properties": {
+        "NDMI": 0.03821573033928871,
+        "NDVI": 0.3255620300769806,
+        "SAVI": 0.2664697876418665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.905688524894074
+        ]
+      },
+      "id": "111",
+      "properties": {
+        "NDMI": 0.0227670818567276,
+        "NDVI": 0.340108186006546,
+        "SAVI": 0.2803801601529178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.479096893593116,
+          31.905688524894074
+        ]
+      },
+      "id": "112",
+      "properties": {
+        "NDMI": 0.049981746822595596,
+        "NDVI": 0.300301194190979,
+        "SAVI": 0.2569587559281563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47783925219535,
+          31.905778356422488
+        ]
+      },
+      "id": "113",
+      "properties": {
+        "NDMI": 0.06100134924054146,
+        "NDVI": 0.29629626870155334,
+        "SAVI": 0.2526751590169817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.477929083723765,
+          31.905778356422488
+        ]
+      },
+      "id": "114",
+      "properties": {
+        "NDMI": 0.058370448648929596,
+        "NDVI": 0.3045542240142822,
+        "SAVI": 0.26228600791765533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47801891525218,
+          31.905778356422488
+        ]
+      },
+      "id": "115",
+      "properties": {
+        "NDMI": 0.048985034227371216,
+        "NDVI": 0.3177584409713745,
+        "SAVI": 0.27028313342070776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.905778356422488
+        ]
+      },
+      "id": "116",
+      "properties": {
+        "NDMI": 0.049492400139570236,
+        "NDVI": 0.32979580760002136,
+        "SAVI": 0.27422231950605025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.905778356422488
+        ]
+      },
+      "id": "117",
+      "properties": {
+        "NDMI": 0.02397705242037773,
+        "NDVI": 0.3231183588504791,
+        "SAVI": 0.26314103565672575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.905778356422488
+        ]
+      },
+      "id": "118",
+      "properties": {
+        "NDMI": 0.02397705242037773,
+        "NDVI": 0.3231183588504791,
+        "SAVI": 0.26314103565672575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.905778356422488
+        ]
+      },
+      "id": "119",
+      "properties": {
+        "NDMI": 0.05192584916949272,
+        "NDVI": 0.3648303151130676,
+        "SAVI": 0.2953604013851345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.905778356422488
+        ]
+      },
+      "id": "120",
+      "properties": {
+        "NDMI": 0.05205048620700836,
+        "NDVI": 0.340254545211792,
+        "SAVI": 0.27779804678535425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.905778356422488
+        ]
+      },
+      "id": "121",
+      "properties": {
+        "NDMI": 0.038169976323843,
+        "NDVI": 0.3709167540073395,
+        "SAVI": 0.2962408776719744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.905778356422488
+        ]
+      },
+      "id": "122",
+      "properties": {
+        "NDMI": 0.04929670691490173,
+        "NDVI": 0.3535696268081665,
+        "SAVI": 0.28700561582470774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.905778356422488
+        ]
+      },
+      "id": "123",
+      "properties": {
+        "NDMI": 0.04802478849887848,
+        "NDVI": 0.3003363609313965,
+        "SAVI": 0.25015565172692833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.905778356422488
+        ]
+      },
+      "id": "124",
+      "properties": {
+        "NDMI": 0.03683385252952576,
+        "NDVI": 0.31119921803474426,
+        "SAVI": 0.2556540632463303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.905778356422488
+        ]
+      },
+      "id": "125",
+      "properties": {
+        "NDMI": 0.03683385252952576,
+        "NDVI": 0.31119921803474426,
+        "SAVI": 0.2556540632463303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.905778356422488
+        ]
+      },
+      "id": "126",
+      "properties": {
+        "NDMI": 0.029203418642282486,
+        "NDVI": 0.3300144374370575,
+        "SAVI": 0.27456131661973493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.479096893593116,
+          31.905778356422488
+        ]
+      },
+      "id": "127",
+      "properties": {
+        "NDMI": 0.06375838816165924,
+        "NDVI": 0.2876831591129303,
+        "SAVI": 0.2501051087540444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.477929083723765,
+          31.905868187950897
+        ]
+      },
+      "id": "128",
+      "properties": {
+        "NDMI": 0.040206924080848694,
+        "NDVI": 0.2884811758995056,
+        "SAVI": 0.25040028898734623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47801891525218,
+          31.905868187950897
+        ]
+      },
+      "id": "129",
+      "properties": {
+        "NDMI": 0.029019970446825027,
+        "NDVI": 0.2654672861099243,
+        "SAVI": 0.22999914070012067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.905868187950897
+        ]
+      },
+      "id": "130",
+      "properties": {
+        "NDMI": 0.0528758205473423,
+        "NDVI": 0.3287101089954376,
+        "SAVI": 0.2784837689340819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.905868187950897
+        ]
+      },
+      "id": "131",
+      "properties": {
+        "NDMI": 0.02366565726697445,
+        "NDVI": 0.353753924369812,
+        "SAVI": 0.2895884299841795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.905868187950897
+        ]
+      },
+      "id": "132",
+      "properties": {
+        "NDMI": 0.02366565726697445,
+        "NDVI": 0.353753924369812,
+        "SAVI": 0.2895884299841795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.905868187950897
+        ]
+      },
+      "id": "133",
+      "properties": {
+        "NDMI": 0.06418108940124512,
+        "NDVI": 0.3850953280925751,
+        "SAVI": 0.3094707630498684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.905868187950897
+        ]
+      },
+      "id": "134",
+      "properties": {
+        "NDMI": 0.07012435793876648,
+        "NDVI": 0.30220574140548706,
+        "SAVI": 0.2511372619188589
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.905868187950897
+        ]
+      },
+      "id": "135",
+      "properties": {
+        "NDMI": 0.0436970479786396,
+        "NDVI": 0.3538303077220917,
+        "SAVI": 0.2855294964849191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.905868187950897
+        ]
+      },
+      "id": "136",
+      "properties": {
+        "NDMI": 0.04609694704413414,
+        "NDVI": 0.36953139305114746,
+        "SAVI": 0.29727348134462506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.905868187950897
+        ]
+      },
+      "id": "137",
+      "properties": {
+        "NDMI": 0.02851373516023159,
+        "NDVI": 0.3242364823818207,
+        "SAVI": 0.26837573922102137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.905868187950897
+        ]
+      },
+      "id": "138",
+      "properties": {
+        "NDMI": 0.02851373516023159,
+        "NDVI": 0.3242364823818207,
+        "SAVI": 0.26837573922102137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.905868187950897
+        ]
+      },
+      "id": "139",
+      "properties": {
+        "NDMI": 0.030958959832787514,
+        "NDVI": 0.2742261588573456,
+        "SAVI": 0.23138506092409367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.905868187950897
+        ]
+      },
+      "id": "140",
+      "properties": {
+        "NDMI": 0.003369445214048028,
+        "NDVI": 0.2919120192527771,
+        "SAVI": 0.246726053964762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.477929083723765,
+          31.90595801947931
+        ]
+      },
+      "id": "141",
+      "properties": {
+        "NDMI": 0.014247750863432884,
+        "NDVI": 0.24370741844177246,
+        "SAVI": 0.2100561337929054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47801891525218,
+          31.90595801947931
+        ]
+      },
+      "id": "142",
+      "properties": {
+        "NDMI": 0.014842536300420761,
+        "NDVI": 0.25559869408607483,
+        "SAVI": 0.21952471181386413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478108746780585,
+          31.90595801947931
+        ]
+      },
+      "id": "143",
+      "properties": {
+        "NDMI": 0.0443568155169487,
+        "NDVI": 0.28599604964256287,
+        "SAVI": 0.24393924738323988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478198578309,
+          31.90595801947931
+        ]
+      },
+      "id": "144",
+      "properties": {
+        "NDMI": 0.009577321819961071,
+        "NDVI": 0.3352474272251129,
+        "SAVI": 0.27263987968823405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.90595801947931
+        ]
+      },
+      "id": "145",
+      "properties": {
+        "NDMI": 0.009577321819961071,
+        "NDVI": 0.3352474272251129,
+        "SAVI": 0.27263987968823405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.90595801947931
+        ]
+      },
+      "id": "146",
+      "properties": {
+        "NDMI": 0.03620404377579689,
+        "NDVI": 0.36562439799308777,
+        "SAVI": 0.28809453660019757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.90595801947931
+        ]
+      },
+      "id": "147",
+      "properties": {
+        "NDMI": 0.055122341960668564,
+        "NDVI": 0.3620270788669586,
+        "SAVI": 0.29074521577115536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.90595801947931
+        ]
+      },
+      "id": "148",
+      "properties": {
+        "NDMI": 0.036809828132390976,
+        "NDVI": 0.3517649173736572,
+        "SAVI": 0.28225282936334023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.90595801947931
+        ]
+      },
+      "id": "149",
+      "properties": {
+        "NDMI": 0.036295704543590546,
+        "NDVI": 0.3492008447647095,
+        "SAVI": 0.2803086723733108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.90595801947931
+        ]
+      },
+      "id": "150",
+      "properties": {
+        "NDMI": 0.017104938626289368,
+        "NDVI": 0.3641499876976013,
+        "SAVI": 0.2942994296295726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.90595801947931
+        ]
+      },
+      "id": "151",
+      "properties": {
+        "NDMI": 0.017104938626289368,
+        "NDVI": 0.3641499876976013,
+        "SAVI": 0.2942994296295726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.90595801947931
+        ]
+      },
+      "id": "152",
+      "properties": {
+        "NDMI": 0.05323987826704979,
+        "NDVI": 0.3099862337112427,
+        "SAVI": 0.263497689822831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.90595801947931
+        ]
+      },
+      "id": "153",
+      "properties": {
+        "NDMI": 0.030210785567760468,
+        "NDVI": 0.28288131952285767,
+        "SAVI": 0.24540395064486162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47828840983741,
+          31.906047851007724
+        ]
+      },
+      "id": "154",
+      "properties": {
+        "NDMI": 0.01916198618710041,
+        "NDVI": 0.29177460074424744,
+        "SAVI": 0.2418575441267899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478378241365824,
+          31.906047851007724
+        ]
+      },
+      "id": "155",
+      "properties": {
+        "NDMI": 0.0379209890961647,
+        "NDVI": 0.301196813583374,
+        "SAVI": 0.24673204185879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47846807289424,
+          31.906047851007724
+        ]
+      },
+      "id": "156",
+      "properties": {
+        "NDMI": 0.022892529144883156,
+        "NDVI": 0.3233449459075928,
+        "SAVI": 0.2592178771647319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.478557904422644,
+          31.906047851007724
+        ]
+      },
+      "id": "157",
+      "properties": {
+        "NDMI": -0.012107779271900654,
+        "NDVI": 0.3208007216453552,
+        "SAVI": 0.2572824830923134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47864773595106,
+          31.906047851007724
+        ]
+      },
+      "id": "158",
+      "properties": {
+        "NDMI": 0.009807673282921314,
+        "NDVI": 0.28264036774635315,
+        "SAVI": 0.2343708162950974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47873756747947,
+          31.906047851007724
+        ]
+      },
+      "id": "159",
+      "properties": {
+        "NDMI": 0.0031096283346414566,
+        "NDVI": 0.3113143742084503,
+        "SAVI": 0.25284300733089565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47882739900788,
+          31.906047851007724
+        ]
+      },
+      "id": "160",
+      "properties": {
+        "NDMI": 0.0031096283346414566,
+        "NDVI": 0.3113143742084503,
+        "SAVI": 0.25284300733089565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.4789172305363,
+          31.906047851007724
+        ]
+      },
+      "id": "161",
+      "properties": {
+        "NDMI": 0.02447066456079483,
+        "NDVI": 0.31424853205680847,
+        "SAVI": 0.25995694756803045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "geodesic": false,
+        "type": "Point",
+        "coordinates": [
+          35.47900706206471,
+          31.906047851007724
+        ]
+      },
+      "id": "162",
+      "properties": {
+        "NDMI": 0.024546436965465546,
+        "NDVI": 0.28037938475608826,
+        "SAVI": 0.24157304966975052
+      }
+    }
+  ],
+  "metadata": {
+    "pixel_count": 163,
+    "ndvi_mean": 0.3302,
+    "ndvi_min": 0.2437,
+    "ndvi_max": 0.4034,
+    "image_date": "2026-04-29",
+    "source": "GEE Sentinel-2 export"
+  }
+}

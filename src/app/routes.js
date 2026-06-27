@@ -1,0 +1,42 @@
+export const PAGES = [
+  {
+    id: 'overview',
+    label: 'Overview',
+    icon: '🏠',
+    title: 'Operational Overview',
+    eyebrow: 'Farm dashboard',
+    description: 'Headline NDVI health, irrigation response, uniformity, and persistent stress signals.',
+  },
+  {
+    id: 'map',
+    label: 'Field Map',
+    icon: '🗺️',
+    title: 'Spatial Field Map',
+    eyebrow: 'Pixel intelligence',
+    description: 'Compare block-level Sentinel-2 pixels, vegetation vigor, canopy moisture, and walking-priority zones.',
+  },
+  {
+    id: 'trends',
+    label: 'Trends',
+    icon: '📈',
+    title: 'Vegetation Trends',
+    eyebrow: 'Time-series analytics',
+    description: 'Track NDVI and NDMI movement, stress-gap persistence, and the inverted date-palm seasonal cycle.',
+  },
+  {
+    id: 'forecast',
+    label: 'Forecast',
+    icon: '🔮',
+    title: 'Forecast Planning',
+    eyebrow: 'Kriging forecast',
+    description: 'Estimate next irrigation pressure and the projected NDVI / harvest peak with confidence bands.',
+  },
+  {
+    id: 'advisor',
+    label: 'Advisor',
+    icon: '🌴',
+    title: 'Field Advisor',
+    eyebrow: 'Action layer',
+    description: 'Convert analytics into prioritized inspection, irrigation, planting, and seasonal management actions.',
+  },
+]

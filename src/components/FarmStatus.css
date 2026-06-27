@@ -1,0 +1,79 @@
+.farm-status {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 22px 24px;
+  border-radius: 12px;
+  border: 1px solid transparent;
+}
+
+.farm-status-good {
+  background: var(--status-good-bg);
+  border-color: var(--status-good-border);
+}
+
+.farm-status-watch {
+  background: var(--status-watch-bg);
+  border-color: var(--status-watch-border);
+}
+
+.farm-status-act {
+  background: var(--status-act-bg);
+  border-color: var(--status-act-border);
+}
+
+.farm-status-icon {
+  font-size: 38px;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.farm-status-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.farm-status-headline {
+  font-size: 22px;
+  font-weight: 700;
+  color: #111827;
+  line-height: 1.2;
+}
+
+.farm-status-good .farm-status-headline { color: var(--status-good); }
+.farm-status-watch .farm-status-headline { color: var(--status-watch); }
+.farm-status-act .farm-status-headline { color: var(--status-act); }
+
+.farm-status-sub {
+  font-size: 14px;
+  color: #4b5563;
+  margin-top: 4px;
+}
+
+.farm-status-cta {
+  flex-shrink: 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  background: #111827;
+  border: none;
+  border-radius: 8px;
+  padding: 11px 18px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.farm-status-cta:hover {
+  background: #374151;
+}
+
+@media (max-width: 640px) {
+  .farm-status {
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .farm-status-cta {
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -1,0 +1,98 @@
+.findings-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.finding {
+  position: relative;
+  display: flex;
+  gap: 14px;
+  min-height: 140px;
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 18px;
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.finding::before {
+  content: '';
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 5px;
+  background: var(--muted);
+}
+
+.finding-positive {
+  background: linear-gradient(180deg, #ffffff, #f2fbf2);
+}
+
+.finding-positive::before {
+  background: var(--brand);
+}
+
+.finding-warning {
+  background: linear-gradient(180deg, #ffffff, #fff7e7);
+}
+
+.finding-warning::before {
+  background: var(--warning);
+}
+
+.finding-neutral {
+  background: linear-gradient(180deg, #ffffff, var(--surface-soft));
+}
+
+.finding-neutral::before {
+  background: var(--muted);
+}
+
+.finding-marker {
+  width: 34px;
+  height: 34px;
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  border-radius: 14px;
+  background: var(--surface-soft);
+}
+
+.finding-marker::after {
+  content: '•';
+  color: var(--brand);
+  font-size: 24px;
+  line-height: 1;
+}
+
+.finding-warning .finding-marker::after {
+  color: var(--warning);
+}
+
+.finding-neutral .finding-marker::after {
+  color: var(--muted);
+}
+
+.finding-content {
+  flex: 1;
+}
+
+.finding-title {
+  font-size: 14px;
+  font-weight: 850;
+  color: var(--text);
+  margin-bottom: 7px;
+  line-height: 1.35;
+}
+
+.finding-body {
+  font-size: 13px;
+  color: var(--muted-strong);
+  line-height: 1.65;
+}
+
+@media (max-width: 980px) {
+  .findings-list {
+    grid-template-columns: 1fr;
+  }
+}

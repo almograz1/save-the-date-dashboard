@@ -1,0 +1,92 @@
+.stress-status {
+  border-radius: 6px;
+  padding: 12px 14px;
+  margin-bottom: 16px;
+  border: 1px solid;
+}
+
+.stress-status.inactive {
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+
+.stress-status.active.stress-low {
+  background: #fffbeb;
+  border-color: #fde68a;
+}
+
+.stress-status.active.stress-moderate {
+  background: #fff7ed;
+  border-color: #fdba74;
+}
+
+.stress-status.active.stress-high {
+  background: #fef2f2;
+  border-color: #fecaca;
+}
+
+.stress-status-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.stress-icon {
+  font-size: 16px;
+}
+
+.stress-status.inactive .stress-status-header {
+  color: #166534;
+}
+
+.stress-status.active.stress-low .stress-status-header {
+  color: #92400e;
+}
+
+.stress-status.active.stress-moderate .stress-status-header {
+  color: #9a3412;
+}
+
+.stress-status.active.stress-high .stress-status-header {
+  color: #991b1b;
+}
+
+.stress-details {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid currentColor;
+  border-color: rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.stress-detail-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.stress-detail-row .stress-value {
+  color: #111827;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+
+.stress-action {
+  margin-top: 14px;
+  padding: 11px 13px;
+  background: #f9fafb;
+  border-left: 3px solid #16a34a;
+  border-radius: 4px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #374151;
+}
+
+.stress-action strong {
+  color: #111827;
+}

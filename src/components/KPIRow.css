@@ -1,0 +1,74 @@
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+.kpi-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.kpi-card.kpi-alert {
+  border-color: #fbbf24;
+  background: #fffbeb;
+}
+
+.kpi-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.kpi-value {
+  font-size: 26px;
+  font-weight: 600;
+  color: #111827;
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+
+.kpi-value-text {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.kpi-good { color: #16a34a; }
+.kpi-warn { color: #d97706; }
+.kpi-neutral { color: #374151; }
+
+.kpi-unit {
+  font-size: 14px;
+  color: #9ca3af;
+  font-weight: 500;
+}
+
+.kpi-meta {
+  font-size: 12px;
+  color: #6b7280;
+  line-height: 1.4;
+}
+
+.kpi-sub {
+  font-size: 11px;
+  color: #9ca3af;
+  margin-top: auto;
+}
+
+.delta-positive {
+  color: #16a34a;
+  font-weight: 500;
+}
+
+.delta-negative {
+  color: #dc2626;
+  font-weight: 500;
+}

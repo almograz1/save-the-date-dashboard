@@ -1,0 +1,50 @@
+.findings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.finding {
+  display: flex;
+  gap: 14px;
+  padding: 14px 16px;
+  background: #fafafa;
+  border-radius: 6px;
+  border-left: 3px solid;
+}
+
+.finding-positive {
+  border-left-color: #16a34a;
+  background: #f0fdf4;
+}
+
+.finding-warning {
+  border-left-color: #f59e0b;
+  background: #fffbeb;
+}
+
+.finding-neutral {
+  border-left-color: #6b7280;
+  background: #f9fafb;
+}
+
+.finding-marker {
+  display: none;
+}
+
+.finding-content {
+  flex: 1;
+}
+
+.finding-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.finding-body {
+  font-size: 12px;
+  color: #4b5563;
+  line-height: 1.6;
+}

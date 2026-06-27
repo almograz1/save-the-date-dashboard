@@ -1,0 +1,224 @@
+.spatial-stats {
+  margin-bottom: 14px;
+}
+
+.spatial-stat-bar {
+  display: flex;
+  height: 26px;
+  border-radius: 4px;
+  overflow: hidden;
+  background: #f3f4f6;
+}
+
+.bar-segment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.95);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  transition: width 0.3s ease;
+}
+
+.seg-healthy {
+  background: #16a34a;
+}
+
+.seg-moderate {
+  background: #fbbf24;
+}
+
+.seg-stressed {
+  background: #dc2626;
+}
+
+.spatial-stat-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 8px;
+  font-size: 11px;
+  color: #4b5563;
+}
+
+.spatial-stat-legend .dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.dot-healthy {
+  background: #16a34a;
+}
+
+.dot-moderate {
+  background: #fbbf24;
+}
+
+.dot-stressed {
+  background: #dc2626;
+}
+
+.spatial-action {
+  margin-top: 10px;
+  padding: 10px 12px;
+  background: #fef3c7;
+  border-left: 3px solid #f59e0b;
+  border-radius: 4px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #4b5563;
+}
+
+.spatial-action strong {
+  color: #111827;
+}
+
+.map-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.metric-selector {
+  display: flex;
+  gap: 0;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.metric-btn {
+  padding: 6px 14px;
+  border: none;
+  background: #ffffff;
+  color: #6b7280;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  border-right: 1px solid #e5e7eb;
+  transition: all 0.15s;
+}
+
+.metric-btn:last-child {
+  border-right: none;
+}
+
+.metric-btn:hover {
+  background: #f9fafb;
+  color: #111827;
+}
+
+.metric-btn.active {
+  background: #16a34a;
+  color: #ffffff;
+}
+
+.map-container {
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 14px;
+}
+
+.mock-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 7px;
+  background: #fef3c7;
+  color: #92400e;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.real-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 7px;
+  background: #dcfce7;
+  color: #166534;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.map-legend {
+  margin-top: 8px;
+}
+
+.legend-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 6px;
+}
+
+.legend-bar {
+  display: flex;
+  height: 22px;
+  border-radius: 4px;
+  overflow: hidden;
+  border: 1px solid #e5e7eb;
+}
+
+.legend-stop {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.legend-stop-label {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.95);
+  font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  font-variant-numeric: tabular-nums;
+}
+
+.legend-extremes {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: #6b7280;
+  margin-top: 4px;
+}
+
+.pixel-tooltip {
+  font-size: 12px;
+  min-width: 110px;
+}
+
+.pixel-tooltip-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 1px 0;
+}
+
+.pixel-tooltip-row strong {
+  font-variant-numeric: tabular-nums;
+  color: #111827;
+}
+
+/* Leaflet z-index fix so tooltips render above other panels */
+.leaflet-container {
+  font-family: inherit;
+  font-size: 12px;
+}
